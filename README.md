@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=360&text=Seokbeen&fontSize=70&fontAlign=50&fontAlignY=50&desc=AI&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Seokbeen&fontSize=70&fontAlign=50&fontAlignY=50&desc=AI&descSize=20&descAlign=50&descAlignY=60)
 ***
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=seokbeen0109&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=seokbeen0109&theme=radical)
