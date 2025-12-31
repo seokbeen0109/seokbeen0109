@@ -6,7 +6,9 @@
 ***
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) 
 
 **🛠️ Infra and Tools**
-![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
+
+![타이핑 애니메이션](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
